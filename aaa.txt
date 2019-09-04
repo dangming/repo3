@@ -4,3 +4,5 @@ aaa.txt
 
 
 µ³Ã÷
+
+helloWorld
